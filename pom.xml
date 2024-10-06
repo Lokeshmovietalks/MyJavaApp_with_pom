@@ -5,7 +5,7 @@
     
     <groupId>com.example</groupId>
     <artifactId>MyJavaApp</artifactId>
-    <version>2.0</version>
+    <version>2.0-Snapshot</version>
     
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
